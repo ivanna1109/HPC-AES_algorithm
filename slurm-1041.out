@@ -1,0 +1,28 @@
+Bytes read: 16
+Filesize read: 16
+File content:
+AESJeNeprobojan!
+Plain-text message: AESJeNeprobojan!
+
+The state matrix:
+65	101	114	106	
+69	78	111	97	
+83	101	98	110	
+74	112	111	33	
+
+The final state matrix:
+69	159	183	195	
+22	223	190	152	
+71	239	171	54	
+174	237	27	88	
+
+Cipher-text message: EG®Ÿßïí·¾«Ã˜6X
+
+The state matrix after decryption:
+65	101	114	106	
+69	78	111	97	
+83	101	98	110	
+74	112	111	33	
+
+The result of decryption: AESJeNeprobojan!
+Execution time: 0.000107 seconds

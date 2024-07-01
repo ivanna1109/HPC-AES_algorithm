@@ -1,0 +1,22 @@
+File size: 16 bytes
+Text read from file: AESJeNeprobojan!
+The state matrix of message: 
+65	101	114	106	
+69	78	111	97	
+83	101	98	110	
+74	112	111	33	
+------------Encryption------------
+The final state matrix:
+136	236	55	243	
+241	129	154	121	
+122	68	139	90	
+6	142	151	43	
+Cipher-text message: àÒzçw›¸‚¯o£äKÜ z«
+Starting decryption.......
+The state matrix after decryption:
+65	101	114	106	
+69	78	111	97	
+83	101	98	110	
+74	112	111	33	
+The result of decryption: AESJeNeprobojan!
+Vreme izvrsavanja: 0.000264 sekundi
