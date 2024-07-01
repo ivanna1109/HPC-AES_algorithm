@@ -1,6 +1,6 @@
 # HPC-AES_algorithm
 
-Sekvencijalna implementacija -> aesSeq.c \\
-Paralelna implementacija -> aesParallel.c \\
-Rezultati testiranja -> grafici/results.csv /n
-Obrada rezultata -> graphic.py
+Sekvencijalna implementacija -> aesSeq.c <br>
+Paralelna implementacija -> aesParallel.c <br>
+Rezultati testiranja -> grafici/results.csv <br>
+Obrada rezultata -> graphic.py <br>
